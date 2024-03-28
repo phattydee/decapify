@@ -1,0 +1,15 @@
+{
+    "name": "My Web Guy | Small Business Web Design",
+    "email": "pd@pdgrp.ca",
+    "phoneForTel": "709-746-2625",
+    "phoneFormatted": "(709) 746-2625",
+    "address": {
+        "lineOne": "7 Plank Rd",
+        "lineTwo": "Second Address Line",
+        "city": "St. John's",
+        "state": "NL",
+        "zip": "A1C3E4",
+        "mapLink": "https://maps.app.goo.gl/noDw5SKoqqoPTdT78"
+    },
+    "domain": "https://mywebguy.com"
+}
