@@ -1,0 +1,7 @@
+{
+	"layout": "layouts/therapist.html",
+	"tags": "thrpst",
+	"permalink": "therapist/{{therapistname}}/index.html"
+}
+
+
