@@ -4,7 +4,7 @@ description: decsription therapist
 author: authortherapist
 date: 2024-04-01T23:18
 tags:
-  - thrpst
+  - therapist
 image: /assets/images/blog/brit2-400px.jpg
 imageAlt: img captiojn therapist
 ---
